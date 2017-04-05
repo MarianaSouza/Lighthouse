@@ -1,0 +1,2 @@
+# Lighthouse
+Exercise with jQuery
